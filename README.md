@@ -1,5 +1,5 @@
 # React-Component-to-display-a-live-review-mechanism
-Used the sample review object, 
+Used a sample review object to display the live review mechanism , 
 
 const reviews = [   
 {     
